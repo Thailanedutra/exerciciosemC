@@ -8,7 +8,7 @@ int main(){
 
 	//Entradas
 	printf("Informe o nome: ");
-	gets(nome); //para receber representações de uma string aqui, utilizamos o gets().
+	gets(nome); //para receber representações de am string aqui, utilizamos o gets().
 	printf("Informe a senha: ");
 	gets(senha);
 
